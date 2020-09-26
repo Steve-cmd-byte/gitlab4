@@ -7,7 +7,7 @@ public class HelloEclipse {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int input = sc.nextInt();
-		int i = input / 100;
+		int i = input / 100 + 50;
 		System.out.println(i);
 		System.out.println(i);
 		System.out.println(i);
