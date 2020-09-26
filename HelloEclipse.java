@@ -9,5 +9,6 @@ public class HelloEclipse {
 		int input = sc.nextInt();
 		int i = input / 10;
 		System.out.println(i);
+		System.out.println(i);
 	}
 }
